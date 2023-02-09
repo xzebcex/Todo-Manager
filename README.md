@@ -22,8 +22,7 @@ This code is a simple todo manager that allows the user to create, show, and rem
 5.	Type 'q' to quit the program.
 License
 This code is open source and free to use for educational purpose.
-## Badges
-  https://www.python.org/
+
 ## How to Contribute to the Project
 To contribute to this project, you can:
 •	Submit bug reports or suggestions for improvement.
